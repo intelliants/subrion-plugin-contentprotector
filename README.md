@@ -1,1 +1,1 @@
-# subrion-plugin-contentprotector 
+##Content Protector plugin for [Subrion CMS](https://github.com/intelliants/subrion)

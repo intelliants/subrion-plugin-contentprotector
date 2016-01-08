@@ -5,8 +5,8 @@
 	<author>Intelliants LLC</author>
 	<contributor>Intelliants LLC</contributor>
 	<version>3.2.1</version>
-	<date>2015-03-05</date>
-	<compatibility>3.2</compatibility>
+	<date>2016-01-08</date>
+	<compatibility>4.0</compatibility>
 
 	<phrases>
 		<phrase category="frontend" key="content_protected">Content is copyrighted. You are not allowed to copy it.</phrase>
