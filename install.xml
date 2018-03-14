@@ -4,9 +4,9 @@
     <summary>This plugin disables right click, selections, F12 consoles on your website pages.</summary>
     <author>Intelliants LLC</author>
     <contributor>Intelliants LLC</contributor>
-    <version>4.1.0</version>
-    <date>2017-03-23</date>
-    <compatibility>4.1</compatibility>
+    <version>4.2.0</version>
+    <date>2018-03-14</date>
+    <compatibility>4.2</compatibility>
 
     <phrases>
         <phrase category="frontend" key="content_protected">Content is copyrighted. You are not allowed to copy it.</phrase>
